@@ -10,6 +10,7 @@
 ### Typography
 
 * https://github.com/typograf/typograf
+* https://github.com/hcodes/yaspeller
 
 ### API
 
