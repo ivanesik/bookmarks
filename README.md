@@ -3,6 +3,8 @@
 
 ## Interesting sites
 
+* https://www.adultswim.com/toonami/ - Awesome WebGL scrolling
+* https://www.adultswim.com/etcetera/soup/ - Funny interactive WebGL
 * https://catsby.ru/ - shop with animated image for the whole site
 
 ## Tools
